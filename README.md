@@ -9,6 +9,8 @@ Built with HTML5 and CSS3
 Easily customizable with CSS variables
 Reusable components and layout built with Flexbox
 Vanilla JavaScript for interactivity and functionality
-Speed optimized for performance
+-Speed optimized for performance
+
+
 
 ![image](https://github.com/babdellghani/Template2-HTML-CSS/assets/143917624/39d38aed-4f40-4287-bd93-bbaebe2b9c8e)
