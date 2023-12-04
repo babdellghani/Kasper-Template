@@ -1,5 +1,5 @@
 # Template2-HTML-CSS
-Kasper Template A responsive HTML5 website template built with CSS and JavaScript.
+Pyrim Template A responsive HTML5 website template built with CSS and JavaScript.
 
 ## Overview
 This is a reusable template for building fast, modern websites. Key features include:
@@ -11,5 +11,4 @@ This is a reusable template for building fast, modern websites. Key features inc
 -Speed optimized for performance
 
 
-
-![image](https://github.com/babdellghani/Template2-HTML-CSS/assets/143917624/39d38aed-4f40-4287-bd93-bbaebe2b9c8e)
+![image](https://github.com/babdellghani/Template2-HTML-CSS/assets/143917624/795e8cdf-95a7-449f-b317-86a42a64ec4b)
